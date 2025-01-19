@@ -1,0 +1,8 @@
+[submodule "app"]
+	path = app
+	url = ../app
+	branch = main
+[submodule "VulkanContinuum"]
+	path = VulkanContinuum
+	url = ../VulkanContinuum
+	branch = main
